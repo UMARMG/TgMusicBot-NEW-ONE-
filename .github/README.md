@@ -50,7 +50,7 @@ downloading for a seamless experience.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/AshokShau/TgMusicBot.git && cd TgMusicBot
+   git clone https://github.com/UMARMG/TgMusicBot-NEW-ONE-.git && cd TgMusicBot
    ```
 
 2. Build the Docker image:
